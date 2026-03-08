@@ -1,1 +1,1 @@
-# Github de SmartBibli.IA Solutions
+# Github de SmartBibl.IA Solutions
